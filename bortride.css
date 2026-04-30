@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "menufont";
+    src: url(comic.ttf);
+}
+
+body{
+    background-image: url(night.avif);
+    background-size: cover;
+}
+
+div1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 5vw;
+    font-family: "menufont";
+}
+
+img{
+    width: 600px;
+    height: auto;
+}
+
+div2{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
