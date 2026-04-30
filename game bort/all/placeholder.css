@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    background-image: url(fire.png);
+    background-size: cover;
+}
+
+div1{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+div2{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
