@@ -57,7 +57,7 @@ function loop() {
                 stopGame = true;
             } else {
                 score++;
-                    if (score > 2) {
+                    if (score > 49) {
     window.location.replace("next.html");
     }
                 speed = Math.max(100, speed - 25);
